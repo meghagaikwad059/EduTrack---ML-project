@@ -17,7 +17,7 @@ To deploy this project, follow these steps:
 
 
 
-[![Watch the video]([[https://i.sstatic.net/Vp2cE.png](https://img.freepik.com/free-vector/black-video-player-template-mockup-design_1017-36895.jpg](https://img.freepik.com/free-photo/free-photo-black-grunge-abstract-background-pattern-wallpaper_1340-33839.jpg)))](https://www.loom.com/share/f27608b6482f45718f05efc0250c0bcb?sid=ceb9953d-37d5-4444-b996-c881b68b54a6)
+[![Watch the video]](https://www.loom.com/share/f27608b6482f45718f05efc0250c0bcb?sid=ceb9953d-37d5-4444-b996-c881b68b54a6)
 
 
 
