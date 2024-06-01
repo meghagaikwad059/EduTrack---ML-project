@@ -17,7 +17,7 @@ To deploy this project, follow these steps:
 
 
 
-[[Watch the output video]](https://www.loom.com/share/f27608b6482f45718f05efc0250c0bcb?sid=ceb9953d-37d5-4444-b996-c881b68b54a6)
+[Watch the output video](https://www.loom.com/share/f27608b6482f45718f05efc0250c0bcb?sid=ceb9953d-37d5-4444-b996-c881b68b54a6)
 
 
 
