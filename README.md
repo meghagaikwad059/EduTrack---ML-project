@@ -1,4 +1,4 @@
-# EduTrack: ML-project
+# EduTrack: Intelligent career guidance system
 Machine Learning based project (WebPortal) for students to help them to choose their career domains.
 
 Note :
