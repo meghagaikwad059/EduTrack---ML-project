@@ -15,6 +15,38 @@ To deploy this project, follow these steps:
    To verify the model's accuracy, run the `testmodel.py` script. This script contains the necessary code to evaluate and display the accuracy of the machine learning model used in the project.
 
 5. Output Screen:
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
    
 
